@@ -19,7 +19,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=RonijsBarenitis)" alt="Ronnie" /> </p>
+<p align="left"> ![](https://komarev.com/ghpvc/?username=RonijsBarenitis) </p>
 
 ### 📊 Profile stats
 
