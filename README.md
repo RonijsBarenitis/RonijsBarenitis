@@ -1,12 +1,13 @@
 <h1 align="center"> Hello there, I'm Ronnie! 👨‍💻 </h1>
 
-<h2 align="center"> [Ronijs Barenitis] 👨‍💻 </h2>
+<h2 align="center"> [Ronijs Barenitis] </h2>
 
 <h3 align="center">  Junior Back-End Developer | Tech Enthusiast </h3> <br>
 
 <p align="center"> 
-<a href="https://linkedin.com/in/ronijs barenitis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronijs barenitis" height="30" width="40" /></a>
-[![Mail Badge](https://img.shields.io/badge/-ronijs.barenitis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ronijs.barenitis@gmail.com)]
+ <a href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/ronijs-barenitis/)">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,7 +19,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SulthanNK" alt="SulthanNK" /> </p>
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=RonijsBarenitis)" alt="Ronnie" /> </p>
 
 ### 📊 Profile stats
 
